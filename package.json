@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-oregon-trail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehirshfield/nodejs-oregon-trail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehirshfield/nodejs-oregon-trail/issues"
+  },
+  "homepage": "https://github.com/ehirshfield/nodejs-oregon-trail#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
